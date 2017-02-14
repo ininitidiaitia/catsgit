@@ -2,5 +2,4 @@ GitHubに
 Pushは
 できるのでしょうか？
 
-
-EclipseからGitHubにPushできるかの確認行
+JGitからpullできるかを確かめるための確認行
