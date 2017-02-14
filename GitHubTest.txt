@@ -2,3 +2,4 @@ GitHubに
 Pushは
 できるのでしょうか？
 
+Eclipseからpullできるかを確かめるための確認行
